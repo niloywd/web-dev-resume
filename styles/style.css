@@ -45,3 +45,119 @@ nav {
 }
 
 /* main */
+.hedding-edit {
+  font-size: 32px;
+  font-weight: 800;
+}
+
+.peragaph-1 {
+  font-size: 16px;
+  font-weight: normal;
+}
+
+.hedding-content {
+  text-align: center;
+}
+
+.feature-section-1 {
+  display: flex;
+}
+
+.feature-section-2 {
+  display: flex;
+}
+
+.feature-section-3 {
+  display: flex;
+}
+
+.feature-content-1-h4-1 {
+  font-size: 24px;
+  font-weight: bold;
+  color: #0d1321;
+}
+
+.feature-content-1-p-1 {
+  font-size: 16px;
+  font-weight: 400px;
+  color: #0d1321;
+  width: 458px;
+  height: 52px;
+}
+
+.button-2 {
+  background-color: white;
+  padding: 10px 20px;
+}
+
+.feature-content-2-h4-2 {
+  font-size: 24px;
+  font-weight: bold;
+  color: #0d1321;
+}
+
+.feature-content-2-p-2 {
+  font-size: 16px;
+  font-weight: 400px;
+  width: 468px;
+  height: 52px;
+}
+
+.feature-section-4-h4 {
+  font-size: 32px;
+  font-weight: 800;
+  color: #0d1321;
+}
+
+.feature-section-4-p-1 {
+  font-size: 16px;
+  font-weight: 400;
+}
+.align-center {
+  text-align: center;
+}
+
+.html-css-js {
+  display: flex;
+}
+.heading-1 {
+  text-align: center;
+}
+.heeding-bold {
+  font-size: 32px;
+  font-weight: 800;
+  color: #0d1321;
+}
+.p-heeding {
+  font-size: 16px;
+  font-weight: 400;
+  color: #0d1321;
+}
+
+.last-hiding {
+  font-size: 24px;
+  font-weight: 800;
+  color: #0d1321;
+}
+.edit-p {
+  font-size: 16px;
+  font-weight: 400;
+  color: #0d1321;
+}
+
+.backgraound-colour-1 {
+  background-color: antiquewhite;
+  padding: 40px;
+}
+.backgraound-colour-2 {
+  background-color: lightblue;
+  padding: 40px;
+}
+.backgraound-colour-3 {
+  background-color: darkgrey;
+  padding: 40px;
+}
+
+.button-edit {
+  padding: 10px 20px;
+}
