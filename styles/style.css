@@ -57,6 +57,7 @@ nav {
 
 .hedding-content {
   text-align: center;
+  margin-top: 50px;
 }
 
 .feature-section-1 {
@@ -152,12 +153,76 @@ nav {
 .backgraound-colour-2 {
   background-color: lightblue;
   padding: 40px;
+  margin-left: 20px;
 }
 .backgraound-colour-3 {
   background-color: darkgrey;
   padding: 40px;
+  margin-left: 20px;
 }
 
 .button-edit {
   padding: 10px 20px;
 }
+.video-margin {
+  margin-bottom: 100px;
+  margin-top: 50px;
+}
+
+.feature-content-colour {
+  background-color: aliceblue;
+}
+
+/* footer */
+
+.footer-edits {
+  display: flex;
+  justify-content: center;
+}
+.footer-heeding {
+  text-align: center;
+  margin-top: 80px;
+  color: white;
+  margin-bottom: 150px;
+  font-size: 32px;
+}
+.footer-bg {
+  background-image: url(/assets/handshake.jpg);
+}
+
+.footer-background {
+  background-image: url(/assets/handshake.jpg);
+  background-size: cover;
+  background-position: center;
+  padding: 116px 267px 147px 267px;
+  background-repeat: no-repeat;
+}
+
+.footer-perageaph-edit {
+  font-size: 16px;
+}
+.buttom-4 {
+  margin-left: 20px;
+  width: 80px;
+  height: 50px;
+  border-radius: 5px;
+}
+
+.end-form {
+  width: 700px;
+  height: 45px;
+  border-radius: 5px;
+}
+.icon-edit {
+  display: flex;
+  justify-content: space-between;
+>
+
+.icon-edits{
+  
+  }
+
+  .descreption-end{
+    font-size: 20px;
+    font-weight: 600;
+  }
